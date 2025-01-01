@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/wp/workdir/linux/IMX6ULL/linux/linux-imx-nxp/include", 
+                "/home/wp/workdir/linux/IMX6ULL/linux/linux-imx-nxp/arch/arm/include", 
+                "/home/wp/workdir/linux/IMX6ULL/linux/linux-imx-nxp/arch/arm/include/generated/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
