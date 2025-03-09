@@ -1,0 +1,1 @@
+cmd_/workdir/linux/IMX6ULL/drivers_linux/8_atomic/atomic.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /workdir/linux/IMX6ULL/drivers_linux/8_atomic/atomic.ko /workdir/linux/IMX6ULL/drivers_linux/8_atomic/atomic.o /workdir/linux/IMX6ULL/drivers_linux/8_atomic/atomic.mod.o

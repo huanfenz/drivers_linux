@@ -22,6 +22,14 @@
     "files.associations": {
         "algorithm": "c",
         "types.h": "c",
-        "*.tcc": "c"
+        "*.tcc": "c",
+        "slab.h": "c",
+        "numbers": "c",
+        "of_gpio.h": "c",
+        "spinlock.h": "c",
+        "gfp.h": "c",
+        "device.h": "c",
+        "module.h": "c",
+        "of_irq.h": "c"
     }
 }
